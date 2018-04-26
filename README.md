@@ -1,4 +1,4 @@
-# blockstamper-yp
+# BlockStampr YellowPaper
 
 ### *BlockStampr* chaincode application
 
